@@ -5,7 +5,7 @@
   "dependencies": {
     "@fortawesome/fontawesome-svg-core": "^1.2.21",
     "@fortawesome/free-solid-svg-icons": "^5.10.1",
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "black": "^0.3.0",
     "font-awesome": "^4.7.0",
     "font-awesome-svg-png": "^1.2.2",
